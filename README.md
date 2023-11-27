@@ -11,4 +11,4 @@ que quiera apoyarse con este repositorio para poder desarrollar su práctica.
 
 Tambien para el diseño y modelado en 3D se utilizó FreeCad para el modelado de ejemplos con el fin de poder podelar un proyecto
 el cual va a ser presentado posteriormente.
-![Uploading image.png…]()
+![image](https://github.com/A01752228/MiWIKI/assets/69489848/17529ceb-84e8-462a-8b86-98bedfc950dc)
