@@ -19,5 +19,8 @@ el cual va a ser presentado posteriormente.
 Link de la WIKI:
 https://github.com/A01752228/MiWIKI/wiki
 
-Alan Josué Melgar Fuentes
-Septiembre/Diciembre 2023
+Datos del Alumnos:
+-Alan Josué Melgar Fuentes
+
+Periodo:
+-Septiembre/Diciembre 2023
