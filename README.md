@@ -16,5 +16,8 @@ el cual va a ser presentado posteriormente.
 <img src="https://github.com/A01752228/MiWIKI/assets/69489848/17529ceb-84e8-462a-8b86-98bedfc950dc" width="200" height="200">
 
 
+Link de la WIKI:
+https://github.com/A01752228/MiWIKI/wiki
+
 Alan Josué Melgar Fuentes
 Septiembre/Diciembre 2023
