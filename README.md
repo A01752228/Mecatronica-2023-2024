@@ -7,3 +7,4 @@ algunos casos te va a poder resultar mucho mas facil que desarrollar el mismo pr
 
 Para ello vamos a utilizar programas los cuales son Softwares libres los cuales pueden estar disponibles para cualquiera
 que quiera apoyarse con este repositorio para poder desarrollar su práctica.
+![image](https://github.com/A01752228/MiWIKI/assets/69489848/83749c43-f3f0-4e18-a8f3-58e9bb52765b)
