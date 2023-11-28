@@ -24,3 +24,5 @@ Datos del Alumnos:
 
 Periodo:
 -Septiembre/Diciembre 2023
+
+![](Ejercicio2-gato.gif)
